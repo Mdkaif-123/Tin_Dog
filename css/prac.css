@@ -1,0 +1,15 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+header{
+    background-color: rgb(37, 101, 158);
+ display:flex;
+ 
+ 
+}
+
+#banner{
+background-color: aqua;
+
+}
